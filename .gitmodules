@@ -7,3 +7,6 @@
 [submodule "ITK"]
 	path = ITK
 	url = https://github.com/InsightSoftwareConsortium/ITK.git
+[submodule "dcmtk"]
+	path = dcmtk
+	url = https://github.com/DCMTK/dcmtk.git
