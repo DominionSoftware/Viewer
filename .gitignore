@@ -80,3 +80,11 @@ qt6.ins/include/QtVirtualKeyboard/
 qt6.ins/include/QtZlib/
 
 qt6.ins/mkspecs/aix-g\+\+-64/
+
+VTK.bin
+
+VTK.ins
+
+ITK.bin
+
+ITK.ins
